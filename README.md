@@ -2,6 +2,8 @@
 
 Apps Script para buscar clientes e a documentação enviada numa planilha de formulário e gerar uma mensagem pronta.
 
+![Exemplo da janela com a mensagem](exemplo_mensagem.png)
+
 ## Problema
 Conferir a documentação de cada cliente exigia buscar manualmente várias colunas da planilha.
 
